@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+assemblyai
+python-dotenv

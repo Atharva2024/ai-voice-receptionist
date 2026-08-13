@@ -1,0 +1,16 @@
+# Environment / secrets
+.env
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Generated files
+uploads/
+*.wav
+
+# IDE
+.vscode/
+.idea/
